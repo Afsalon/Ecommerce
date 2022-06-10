@@ -1,5 +1,5 @@
 # Ecommerce
-This is an imitation of Jhon Smilga's Project, an attempt to test ones skills by integrating the following technologies
+This is an imitation of Jhon Smilga's Project, an attempt to test one's skills by integrating the following technologies
 
 Front End : ReactJs
 Back End: Django and Django Rest Framework 
