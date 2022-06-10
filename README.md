@@ -1,4 +1,6 @@
 # Ecommerce
+Front End : ReactJs
+Back End: Django and Django Rest Framework 
 Landing Page
 <img width="1680" alt="Screenshot 2022-06-10 at 1 07 34 PM" src="https://user-images.githubusercontent.com/68525687/173015831-7c68a825-e078-4145-b5e5-a64bc63ebcb0.png">
 
@@ -21,8 +23,14 @@ Cart
 Empty Cart
 <img width="1680" alt="Screenshot 2022-06-10 at 1 09 18 PM" src="https://user-images.githubusercontent.com/68525687/173017380-b4146568-bae1-4a30-8c99-db75fd96716c.png">
 
+Filters
+<img width="369" alt="Screenshot 2022-06-10 at 1 12 55 PM" src="https://user-images.githubusercontent.com/68525687/173018740-08bb6652-1bfb-4afc-8c8c-ae2451a8d0bf.png">
 
 Back end
 <img width="1680" alt="Screenshot 2022-06-10 at 1 09 25 PM" src="https://user-images.githubusercontent.com/68525687/173017434-6995355b-12f4-474a-8a92-167f41a71ea4.png">
 <img width="1680" alt="Screenshot 2022-06-10 at 1 09 32 PM" src="https://user-images.githubusercontent.com/68525687/173017459-75d4bc58-7b0a-4904-9a25-b68ae6bc4c9e.png">
 <img width="1680" alt="Screenshot 2022-06-10 at 1 10 10 PM" src="https://user-images.githubusercontent.com/68525687/173017468-5768d2f4-5dc0-4e51-9480-ec1cb838fd07.png">
+
+APIs
+<img width="1680" alt="Screenshot 2022-06-10 at 1 24 18 PM" src="https://user-images.githubusercontent.com/68525687/173018821-142f144b-fb4d-45ac-b954-ae08abb05228.png">
+<img width="1680" alt="Screenshot 2022-06-10 at 1 25 14 PM" src="https://user-images.githubusercontent.com/68525687/173018850-bf49886e-b28b-4c15-a290-57164fceb87c.png">
