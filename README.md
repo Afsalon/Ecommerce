@@ -1,6 +1,9 @@
 # Ecommerce
+This is an imitation of Jhon Smilga's Project, an attempt to test ones skills by integrating the following technologies
+
 Front End : ReactJs
 Back End: Django and Django Rest Framework 
+
 Landing Page
 <img width="1680" alt="Screenshot 2022-06-10 at 1 07 34 PM" src="https://user-images.githubusercontent.com/68525687/173015831-7c68a825-e078-4145-b5e5-a64bc63ebcb0.png">
 
